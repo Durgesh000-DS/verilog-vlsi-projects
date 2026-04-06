@@ -1,12 +1,29 @@
 # Verilog VLSI Projects
 
-Hands-on Verilog designs simulated on EDA Playground.
-Tools: Icarus Verilog 12.0, EPWave
+![Language](https://img.shields.io/badge/Language-SystemVerilog-blue)
+![Tool](https://img.shields.io/badge/Tool-EDA%20Playground-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+
+**My EDA Playground:** https://edaplayground.com/x/BgW3
+
+Hands-on Verilog designs simulated on EDA Playground.  
+**Tool:** Icarus Verilog 12.0 | EPWave  
+**Simulate here:** edaplayground.com  
+**Target:** VLSI Design Verification Engineer | Fresher 2026
+
+---
 
 ## Projects
-| # | Project | Concepts covered |
-|---|---------|-----------------|
-| 01 | Half Adder | XOR, AND, assign, testbench, waveform verification |
+
+| # | Project | Concepts |
+|---|---------|----------|
+| 01 | Half Adder | XOR, AND, assign, testbench |
+| 02 | Full Adder | Module instantiation, hierarchical design |
+
+---
 
 ## About
-Final year ECE student | Targeting VLSI Design Verification roles
+
+Final year ECE student at SPPU, Pune  
+Self-learning VLSI DV through hands-on projects  
+LinkedIn: linkedin.com/in/durgesh-savale-64644a269
