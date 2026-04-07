@@ -16,5 +16,8 @@ Adds two 1-bit numbers without carry input.
 | 1 | 0 | 1   | 0     |
 | 1 | 1 | 0   | 1     |
 
+### Run Online
+[Click here to simulate on EDA Playground](https://www.edaplayground.com/x/eMLH)
+
 ### Waveform
 ![Waveform](HAWaveform.png)
