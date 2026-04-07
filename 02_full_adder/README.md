@@ -20,6 +20,9 @@ Adds two 1-bit numbers with a carry input using two Half Adder modules.
 | 1 | 1 | 0   | 0   | 1    |
 | 1 | 1 | 1   | 1   | 1    |
 
+### RUN ONLINE
+[Click here to simulate on EDA Playground](https://www.edaplayground.com/x/BgW3)
+
 ### Waveform
 ![Waveform1](FAWaveform1.png)
 ![Waveform2](FAWaveform2.png)
