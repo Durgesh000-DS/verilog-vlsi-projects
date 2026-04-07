@@ -13,6 +13,9 @@ Selects one of two inputs based on select line.
 | 0   | i0 |
 | 1   | i1 |
 
+### RUN 
+[Click here to simulate On EDA Player](https://www.edaplayground.com/x/ePUv)
+
 ### Logic
 if sel=0 → y = i0  
 if sel=1 → y = i1
