@@ -21,5 +21,5 @@ Adds two 1-bit numbers with a carry input using two Half Adder modules.
 | 1 | 1 | 1   | 1   | 1    |
 
 ### Waveform
-![Waveform1](FA Waveform 1.png)
-![Waveform2](FA Waveform 2.png)
+![Waveform1](FAWaveform1.png)
+![Waveform2](FAWaveform2.png)
