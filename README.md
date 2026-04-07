@@ -19,6 +19,7 @@ Hands-on Verilog designs simulated on EDA Playground.
 |---|---------|----------|
 | 01 | Half Adder | XOR, AND, assign, testbench |
 | 02 | Full Adder | Module instantiation, hierarchical design |
+| 03 | 4-bit Ripple Carry Adder | Bus signals, chaining modules, hex verification |
 
 ---
 
