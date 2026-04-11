@@ -22,6 +22,7 @@ Hands-on Verilog designs simulated on EDA Playground.
 | 03 | 4-bit Ripple Carry Adder | Bus signals, chaining modules, hex verification |
 | 04 | 2:1 MUX | Ternary operator, select line, data routing |
 | 05 | 4:1 MUX | case statement, always block, output reg |
+| 06 | D Flip Flop | posedge clock, sequential logic, non-blocking assignment, reset |
 
 ---
 
