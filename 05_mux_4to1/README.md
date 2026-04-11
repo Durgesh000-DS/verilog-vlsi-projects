@@ -25,4 +25,4 @@ Selects one of four inputs based on 2-bit select line.
 [Click here to simulate on EDA Playground](https://www.edaplayground.com/x/eX6F)
 
 ### Waveform
-![Waveform](waveform.png)
+![4to1waveform](4to1waveform.png)
