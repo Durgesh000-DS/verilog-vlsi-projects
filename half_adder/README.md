@@ -20,4 +20,4 @@ Adds two 1-bit numbers without carry input.
 [Click here to simulate on EDA Playground](https://www.edaplayground.com/x/eMLH)
 
 ### Waveform
-![Waveform](HAWaveform.png)
+![Waveform](waveform.png)
