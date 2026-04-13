@@ -24,6 +24,7 @@ Hands-on Verilog designs simulated on EDA Playground.
 | 05 | 4:1 MUX | case statement, always block, output reg |
 | 06 | D Flip Flop | posedge clock, sequential logic, non-blocking assignment, reset |
 | 07 | 4-bit Counter | Self increment, overflow, sequential logic |
+| 08 | UART Transmitter | FSM, serial communication, state machine, bit indexing |
 ---
 
 ## About
