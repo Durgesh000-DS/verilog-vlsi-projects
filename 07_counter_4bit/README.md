@@ -28,4 +28,4 @@ Counts from 0 to 15 and rolls back to 0 automatically.
 [Click here to simulate on EDA Playground](https://www.edaplayground.com/x/rAdg)
 
 ### Waveform
-![4bitWaveform](4bitwaveform.png)
+![waveform]waveform.png)
