@@ -25,4 +25,4 @@ Basic sequential logic element that captures input on clock rising edge.
 [Click here to simulate on EDA Playground](https://www.edaplayground.com/x/pVE6)
 
 ### Waveform
-![FFWaveform](FFwaveform.png)
+![waveform](waveform.png)
