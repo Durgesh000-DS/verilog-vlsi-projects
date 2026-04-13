@@ -21,4 +21,4 @@ if sel=0 → y = i0
 if sel=1 → y = i1
 
 ### Waveform
-![MUXWaveform](MUXWaveform1.png)
+![waveform](waveform1.png)
