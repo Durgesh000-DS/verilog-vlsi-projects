@@ -25,6 +25,7 @@ Hands-on Verilog designs simulated on EDA Playground.
 | 06 | D Flip Flop | posedge clock, sequential logic, non-blocking assignment, reset |
 | 07 | 4-bit Counter | Self increment, overflow, sequential logic |
 | 08 | UART Transmitter | FSM, serial communication, state machine, bit indexing |
+| 09 | Traffic Light FSM | Moore FSM, state encoding, timer, output logic |
 ---
 
 ## About
